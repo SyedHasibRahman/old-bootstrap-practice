@@ -1,0 +1,93 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face{
+	src:url(font/Orbitron-Regular.ttf);
+	font-family:Orbitron-Regular;
+}
+body p{
+    font-family:Orbitron-Regular;
+}
+
+.my_underline{
+	text-decoration:underline;
+	margin-left:-20px;
+}
+.underline{
+	text-decoration:underline;
+}
+.costom_glyphic1 span{
+	font-size:50px;
+	text-align:center;
+	color:#24B6C3;
+}
+.costom_glyphic1 li{
+	text-align:center;
+	list-style:none;
+	padding-bottom:15px;
+}
+.costom_glyphic1 h3{
+	text-align:center;
+	
+}
+.bdr{
+	border-top:1px solid rgba(185,179,179,0.45);
+}
+.costom_padding{
+	padding:20px 0;
+}
+.cos_inp{
+	padding:40px;
+}
+.cos_btm{
+	float:right;
+	margin-top:-40px;
+}
+.services{
+	background:#24B6C3;
+}
+ .col_costom{
+	 padding:40px;
+	 padding-left:20px;
+ }
+.services span{
+	padding:15px;
+	font-size:30px;
+	border:1px solid #FFFFFF;
+	color:#FFF;
+	border-radius:50%;
+}
+.services span:hover{
+	background:#FFFFFF;
+	color:#24B6C3;
+}
+
+.costom_color{
+	color:#24B6C3;
+}
+.cos_bg{
+	background:url(img/BackgroundTULIP.jpg) no-repeat;
+	background-size:cover;
+}
+.cos_img img{
+	width:108%;
+	height:auto;
+}
+.cos_img{
+	text-align:center;
+}
+
+.cos_img:hover{
+	background:#FFF;
+}
+.cos_map img{
+	width:95%;
+	height:auto;
+	padding-left:5px;
+}
+.cos_map {
+	text-align:center;
+}
+.con_cos{
+    background: url(img/Main_Background.min.jpg) no-repeat;
+    background-size: cover;
+}
